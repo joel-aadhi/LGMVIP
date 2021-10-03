@@ -23,6 +23,6 @@ BEGINNERS TASK 03 - Music Recommendation
 
 BEGINNERS TASK 04 - Image to Pencil Sketch with Python
 
-*Link: COMING SOON*
+*Link: https://github.com/joel-aadhi/LGMVIP/blob/main/Image%20to%20Pencil%20Sketch%20with%20Python.ipynb*
 
 ---------------------------------------------------------------------------------------------------------------
