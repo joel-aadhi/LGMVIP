@@ -11,4 +11,18 @@ BEGINNERS TASK 01 - Iris Flowers Classification ML Project
 
 BEGINNERS TASK 02 - Stock Market Prediction And Forecasting Using Stacked LSTM
 
-*Link:   *
+*Link: https://github.com/joel-aadhi/LGMVIP/blob/main/Stock%20Market%20Prediction%20And%20Forecasting%20Using%20Stacked%20LSTM%20.ipynb*
+
+---------------------------------------------------------------------------------------------------------------
+
+BEGINNERS TASK 03 - Music Recommendation
+
+*Link: COMING SOON*
+
+---------------------------------------------------------------------------------------------------------------
+
+BEGINNERS TASK 04 - Image to Pencil Sketch with Python
+
+*Link: COMING SOON*
+
+---------------------------------------------------------------------------------------------------------------
