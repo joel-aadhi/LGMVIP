@@ -26,3 +26,9 @@ BEGINNERS TASK 04 - Image to Pencil Sketch with Python
 *Link: https://github.com/joel-aadhi/LGMVIP/blob/main/Image%20to%20Pencil%20Sketch%20with%20Python.ipynb*
 
 ---------------------------------------------------------------------------------------------------------------
+
+INTERMEDIATE TASK 01 - Exploratory Data Analysis on Dataset - Terrorism
+
+https://github.com/joel-aadhi/LGMVIP/blob/main/Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism.ipynb
+
+---------------------------------------------------------------------------------------------------------------
