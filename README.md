@@ -29,6 +29,10 @@ BEGINNERS TASK 04 - Image to Pencil Sketch with Python
 
 INTERMEDIATE TASK 01 - Exploratory Data Analysis on Dataset - Terrorism
 
-https://github.com/joel-aadhi/LGMVIP/blob/main/Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism.ipynb
+*Link: https://github.com/joel-aadhi/LGMVIP/blob/main/Exploratory%20Data%20Analysis%20on%20Dataset%20-%20Terrorism.ipynb*
 
 ---------------------------------------------------------------------------------------------------------------
+
+INTERMEDIATE TASK 02 - Prediction using Decision Tree  Algorithm
+
+*Link: https://github.com/joel-aadhi/LGMVIP/blob/main/Prediction%20using%20Decision%20Tree%20%20Algorithm.ipynb*
